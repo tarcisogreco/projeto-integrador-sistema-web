@@ -1,2 +1,3 @@
 # projeto-integrador-sistema-web
 projeto integrador-sistema web analise balanco de energia
+O sistema web desenvolvido em linguagem Python demonstra a viabilidade da utilização de ferramentas de programação para a análise de dados do setor elétrico brasileiro. A leitura e processamento dos dados disponibilizados pelo ONS, em conjunto com a geração de gráficos informativos, facilitam a visualização e interpretação da composição da matriz energética e do balanço energético em diferentes subsistemas do SIN. Conforme demonstrado na análise dos resultados, aplicação web apresentada neste artigo pode servir como base para o desenvolvimento de análises mais complexas e aprofundadas, contribuindo para o estudo e o planejamento do setor elétrico nacional. 
